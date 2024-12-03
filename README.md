@@ -2,8 +2,8 @@
 
 <div align="start">
  
-## Hi There👋, I'm `Tri Nguyen Do`
-A Passionate Software Engineer writing `Awesome Apps` since 2020 ✅. I've working with ***Spring Boot***, ***Android***, ***React Native***, ***Python*** and many other technologies 💻🍵🐍🐘🍎📱⚛️
+## Hi👋, I'm `Tri Nguyen Do`
+A Passionate Software Engineer writing `Awesome Apps` since 2020 ✅. I've working with ***Spring Boot***, ***Android***, ***React Native***, ***Python***, ***Flutter*** and many other technologies 💻
 
 </div>
 
@@ -45,11 +45,9 @@ A Passionate Software Engineer writing `Awesome Apps` since 2020 ✅. I've worki
 
 ## What I'm doing now ? 👀
 
-- 🎨 `Open Source` Contributor
-- 🔥 Diving in `software architectures` and `system design`
+- 🎨 Contribute to `Open Source` projects
 - ⭐ Developing awesome Projects on the Google Play Store
-
-<!-- - 💌 Waiting for your next **Incredible Projects** -->
+- 🔥 Diving in `software architectures`, `system design` and `LeetCode`
 
 ######
 
