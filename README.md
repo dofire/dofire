@@ -30,28 +30,30 @@ A Passionate Software Engineer writing `Awesome Apps` since 2020 ✅. I've worki
 
 </details>
 
-
-
 <details>
-    <summary>Github Stats</summary>
+    <summary>GitHub Stats 📊</summary>
     <p align="center">
         <img 
             src="https://github-readme-stats.vercel.app/api?username=dofire&count_private=true&show_icons=true&include_all_commits=true" 
             alt="Tri Do | Stats" 
         />
     </p>
-
 </details>
 
-## What I'm doing now ? 👀
+<details>
+<summary>What I'm doing now 👀</summary>
+
+<br> <!-- This line adds the spacing -->
 
 - 🎨 Contribute to `Open Source` projects
 - ⭐ Developing awesome Projects on the Google Play Store
 - 🔥 Diving in `software architectures`, `system design` and `LeetCode`
 
+</details>
+
 ######
 
-## Reach me via 👇
+## 👇 Reach me via 👇
 
 <div style="display: flex; justify-content: flex-start;">
 
