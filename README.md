@@ -58,7 +58,7 @@ A Passionate Software Engineer writing `Awesome Apps` since 2020 ✅. I've worki
 <div style="display: flex; justify-content: flex-start;">
 
   <!-- GMAIL -->
-  <a href="mailto:tridonguyen.dev@gmail.com" title="Send Email" style="padding-right: 10px;">
+  <a href="mailto:trind.work@gmail.com" title="Send Email" style="padding-right: 10px;">
     <img src="assets/logo/Gmail.png" width="45" alt="Email" />
   </a>
 
