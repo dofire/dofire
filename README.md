@@ -3,7 +3,9 @@
 <div align="start">
  
 ## Hi👋, I'm `Tri Do`
-A Passionate Software Engineer writing `Awesome Apps` since 2020 ✅. I've working with ***Spring Boot***, ***Android***, ***React Native***, ***Python***, ***Flutter*** and many other technologies 💻
+Passionate Software Engineer creating `Awesome Projects` since 2020 ✅. Experienced with ***Spring Boot***, ***Android***, ***React Native***, ***Python***, and many other technologies 💻
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 
 </div>
 
@@ -18,10 +20,10 @@ A Passionate Software Engineer writing `Awesome Apps` since 2020 ✅. I've worki
 <summary>Skill Set 💡</summary>
 <div align="center">
     
-| Language | `Java` `Kotlin` `Python` `JavaScript` `Dart` `Bash` |
+| Language | `Java` `Kotlin` `Python` `JavaScript` `TypeScript`|
 | :- | :- |
-| Mobile | `Android` `Flutter` `React Native` |
 | Backend | `Spring Boot` `FastAPI` |
+| Mobile | `Android` `React Native` |
 | Web | `ReactJS/NextJS` `VueJS`|
 | Database | `SQLite` `PostgreSQL` |
 | Others | `Firebase` `Redis` |
@@ -63,12 +65,12 @@ A Passionate Software Engineer writing `Awesome Apps` since 2020 ✅. I've worki
   </a>
 
   <!-- LINKEDIN -->
-  <a href="https://www.linkedin.com/in/tridonguyen/" title="Redirect to LinkedIn" style="padding-right: 10px;">
+  <a href="https://www.linkedin.com/in/tringuyendo/" title="Redirect to LinkedIn" style="padding-right: 10px;">
     <img src="assets/logo/LinkedIn.png" width="45" alt="LinkedIn" />
   </a>
   
   <!-- FACEBOOK -->
-  <a href="https://www.facebook.com/trido392/" title="Redirect to Facebook" style="padding-right: 10px;">
+  <a href="https://www.facebook.com/trind2k2/" title="Redirect to Facebook" style="padding-right: 10px;">
     <img src="assets/logo/Facebook.png" width="45" alt="Facebook" />
   </a>
 
@@ -78,7 +80,7 @@ A Passionate Software Engineer writing `Awesome Apps` since 2020 ✅. I've worki
   </a>
 
   <!-- TELEGRAM -->
-  <a href="https://t.me/tridonguyen" title="Redirect to Telegram" style="padding-right: 10px;">
+  <a href="https://t.me/tringuyendo" title="Redirect to Telegram" style="padding-right: 10px;">
     <img src="assets/logo/Telegram.png" width="45" alt="Telegram" />
   </a>
 
