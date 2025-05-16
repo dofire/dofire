@@ -5,7 +5,7 @@
 ## Hi👋, I'm `Tri Do`
 Passionate Software Engineer creating `Awesome Projects` since 2020 ✅. Experienced with ***Spring Boot***, ***Android***, ***React Native***, ***Python***, and many other technologies 💻
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=dofire&color=brightgreen)
 
 </div>
 
