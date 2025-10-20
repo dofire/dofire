@@ -70,7 +70,7 @@ Passionate Software Engineer creating `Awesome Projects` since 2020 ✅. Experie
   </a>
   
   <!-- FACEBOOK -->
-  <a href="https://www.facebook.com/trido.trido/" title="Redirect to Facebook" style="padding-right: 10px;">
+  <a href="https://www.facebook.com/trido.dotri/" title="Redirect to Facebook" style="padding-right: 10px;">
     <img src="assets/logo/Facebook.png" width="45" alt="Facebook" />
   </a>
 
