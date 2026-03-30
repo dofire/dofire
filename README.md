@@ -16,46 +16,6 @@ Passionate Software Engineer creating `Awesome Projects` since 2020 ✅. Experie
     <h3><b>🔥 Do it with ... Fireeeee 🔥</b></h3>
 </div>
 
-<details>
-<summary>Skill Set 💡</summary>
-<div align="center">
-    
-| Language | `Java` `Kotlin` `Python` `JavaScript` `TypeScript`|
-| :- | :- |
-| Backend | `Spring Boot` `FastAPI` |
-| Mobile | `Android` `React Native` |
-| Web | `ReactJS/NextJS` `VueJS`|
-| Database | `SQLite` `PostgreSQL` |
-| Others | `Firebase` `Redis` |
-
-</div>
-
-<!--
-</details>
-
-<details>
-    <summary>GitHub Stats 📊</summary>
-    <p align="center">
-        <img 
-            src="https://github-readme-stats.vercel.app/api?username=dofire&count_private=true&show_icons=true&include_all_commits=true" 
-            alt="Tri Do | Stats" 
-        />
-    </p>
-</details>
-
-<details>
-<summary>What I'm doing now 👀</summary>
-
-<br>
-
-- 🎨 Contribute to `Open Source` projects
-- ⭐ Developing awesome Projects on the Google Play Store
-- 🔥 Diving in `software architectures`, `system design` and `LeetCode`
-
-</details>
-
--->
-
 ######
 
 ## 👇 Reach me via 👇
