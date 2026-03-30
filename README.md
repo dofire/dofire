@@ -2,7 +2,7 @@
 
 <div align="start">
  
-## Hi👋, I'm `Tri Do`
+## Hi 👋, &nbsp; I'm `Tri Do`
 Passionate Software Engineer creating `Awesome Projects` since 2020 ✅. Experienced with ***Spring Boot***, ***Android***, ***React Native***, ***Python***, and many other technologies 💻
 
 ![](https://komarev.com/ghpvc/?username=dofire&color=brightgreen)
@@ -18,7 +18,7 @@ Passionate Software Engineer creating `Awesome Projects` since 2020 ✅. Experie
 
 ######
 
-## 👇 Reach me via 👇
+## Reach me via 👇
 
 <div style="display: flex; justify-content: flex-start;">
 
