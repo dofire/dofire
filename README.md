@@ -30,6 +30,7 @@ Passionate Software Engineer creating `Awesome Projects` since 2020 ✅. Experie
 
 </div>
 
+<!--
 </details>
 
 <details>
@@ -45,13 +46,15 @@ Passionate Software Engineer creating `Awesome Projects` since 2020 ✅. Experie
 <details>
 <summary>What I'm doing now 👀</summary>
 
-<br> <!-- This line adds the spacing -->
+<br>
 
 - 🎨 Contribute to `Open Source` projects
 - ⭐ Developing awesome Projects on the Google Play Store
 - 🔥 Diving in `software architectures`, `system design` and `LeetCode`
 
 </details>
+
+-->
 
 ######
 
