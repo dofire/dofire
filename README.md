@@ -3,7 +3,7 @@
 <div align="start">
  
 ## Hi 👋, &nbsp; I'm `Tri Do`
-Passionate Software Engineer creating `Awesome Projects` since 2020 ✅. Experienced with ***Spring Boot***, ***React Native***, ***Python***, ***Android*** and many other technologies 💻
+Passionate Software Engineer creating `Awesome Projects` since 2020 ✅. Experienced with ***Spring Boot***, ***ReactJS/React Native***, ***Python***, ***Android*** and many other technologies 💻
 
 ![](https://komarev.com/ghpvc/?username=dofire&color=brightgreen)
 
